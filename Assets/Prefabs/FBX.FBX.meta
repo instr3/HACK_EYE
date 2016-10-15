@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: fef62e55af4dee74eb4b65414de68b9f
+timeCreated: 1476507659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: C-Ext001
+    100006: //RootNode
+    100008: Hedra001
+    100010: Hedra002
+    100012: Hedra003
+    100014: Hedra005
+    100016: Hedra006
+    100018: L-Ext001
+    100020: Sphere001
+    100022: Teapot001
+    100024: Torus001
+    100026: Torus002
+    100028: Torus003
+    100030: Tube001
+    400000: Box001
+    400002: Box002
+    400004: C-Ext001
+    400006: //RootNode
+    400008: Hedra001
+    400010: Hedra002
+    400012: Hedra003
+    400014: Hedra005
+    400016: Hedra006
+    400018: L-Ext001
+    400020: Sphere001
+    400022: Teapot001
+    400024: Torus001
+    400026: Torus002
+    400028: Torus003
+    400030: Tube001
+    2300000: Box001
+    2300002: Box002
+    2300004: C-Ext001
+    2300006: Hedra001
+    2300008: Hedra002
+    2300010: Hedra003
+    2300012: Hedra005
+    2300014: Hedra006
+    2300016: L-Ext001
+    2300018: Sphere001
+    2300020: Teapot001
+    2300022: Torus001
+    2300024: Torus002
+    2300026: Torus003
+    2300028: Tube001
+    3300000: Box001
+    3300002: Box002
+    3300004: C-Ext001
+    3300006: Hedra001
+    3300008: Hedra002
+    3300010: Hedra003
+    3300012: Hedra005
+    3300014: Hedra006
+    3300016: L-Ext001
+    3300018: Sphere001
+    3300020: Teapot001
+    3300022: Torus001
+    3300024: Torus002
+    3300026: Torus003
+    3300028: Tube001
+    4300000: Box001
+    4300002: Box002
+    4300004: Teapot001
+    4300006: Tube001
+    4300008: Torus001
+    4300010: Torus002
+    4300012: Torus003
+    4300014: Hedra001
+    4300016: Hedra002
+    4300018: Hedra003
+    4300020: Hedra005
+    4300022: Hedra006
+    4300024: L-Ext001
+    4300026: C-Ext001
+    4300028: Sphere001
+    6400000: Box001
+    6400002: Box002
+    6400004: C-Ext001
+    6400006: Hedra001
+    6400008: Hedra002
+    6400010: Hedra003
+    6400012: Hedra005
+    6400014: Hedra006
+    6400016: L-Ext001
+    6400018: Sphere001
+    6400020: Teapot001
+    6400022: Torus001
+    6400024: Torus002
+    6400026: Torus003
+    6400028: Tube001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
