@@ -20,6 +20,8 @@ public class ObjectAfterPicking : MonoBehaviour {
         allCounter = correct ? 10 : 2;
         initColor = render.material.GetColor("_Color");
         counter = allCounter;
+        //if(correct)
+            LevelManager.Instance.LevelFinished();
         return correct;
         
     }
