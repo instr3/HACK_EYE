@@ -6,7 +6,7 @@ public class PickObjectByRayVR : MonoBehaviour
 {
     Ray ray;
     public Transform errorCastPrefab;
-    public VRTK_ControllerEvents controller;
+    VRTK_ControllerEvents controller;
     // Use this for initialization
     void Start()
     {
