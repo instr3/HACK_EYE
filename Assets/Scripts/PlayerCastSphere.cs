@@ -36,7 +36,7 @@ public class PlayerCastSphere : MonoBehaviour {
         {
             if(LevelManager.Instance.GameOver)
             {
-                SceneManager.LoadScene(LevelManager.VR ? 1 : 0);
+                SceneManager.LoadScene(0);
             }
             Debug.Log("yell");
             source.Play();
